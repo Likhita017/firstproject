@@ -4,7 +4,7 @@ class Fib
 	public static void main(String args[])
 	{
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter a value:@");
+		System.out.println("Enter");
 		int n=sc.nextInt();
 		int n1=0,n2=1,n3=0;
 		System.out.println(n1);
